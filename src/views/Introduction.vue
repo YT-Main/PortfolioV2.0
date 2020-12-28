@@ -16,7 +16,7 @@
             working on. Let's get in touch and talk about your company's needs.
           </p>
         </div>
-        <div class="relative px-32 mt-8 mt-0">
+        <div class="relative px-32 mt-0">
           <img
             class="mr-0 rounded-lg"
             src="/images/profile.png"

@@ -72,7 +72,7 @@
             >
               <h2 class="text-2xl font-semibold">{{ projects.text }}</h2>
               <p class="text-lg">{{ projects.description.short }}</p>
-              <div class="block flex flex-wrap">
+              <div class="flex flex-wrap">
                 <div
                   v-for="tech in projects.TechnologiesUsed"
                   :key="tech"
