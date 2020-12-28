@@ -1,0 +1,132 @@
+{
+    "projects":[
+        {
+            "text": "Lectio",
+            "Media": {
+                "type": "img",
+                "link": "lectioweb.png"
+            },
+            "description": {
+                "short": "Lectio is a platform made to help individuals with dyslexia ...",
+                "full": "Lectio is a platform made to help individuals with dyslexia and/or speech impediments . Using speech recognition technology that tracks you while you read and then training you on sounds that you find difficult. V0.1 was made at the PCHacks Hackathon in 2019 (where it won first place) which supports web and Amazon Alexa. V1.0 is currently under development for web, mobile, Google Home, and Amazon Alexa."
+            },
+            "link":[
+                    {
+                        "text":"Devpost",
+                        "link": "https://devpost.com/software/lectio"
+                    },
+                    {
+                        "text":"Website",
+                        "link": "https://lectioplatform.web.app/"
+                    }
+                ],
+            "TechnologiesUsed":[
+                "Vue.js",
+                "Chart.js",
+                "JavaScript",
+                "Tailwind.CSS",
+                "MongoDB"
+            ]
+        },
+        {
+            "text": "Prepri",
+            "Media": {
+                "text": "Version 1 (2019)",
+                "type": "NA",
+                "link": ""
+            },
+            "description": {
+                "short": "Prepri is a revolutionary learning platform that merges convenience ...",
+                "full": "Prepri is a revolutionary learning platform that merges convenience for administrators with effective delivery for students. Prepri is perfect for any corporate or NGO setting allowing for quick and effective information transfer, certification training, and/or onboarding. Prepri was created for the TechUnderTwenty Cup where they were connected with current clients."
+            },
+            "link": [
+                {
+                    "text": "Vist Our Website",
+                    "link": "https://prepri.app"
+                }
+            ],
+            "TechnologiesUsed":[
+                "Vue.js",
+                "Tailwind.CSS",
+                "Axios",
+                "JavaScript"
+            ]
+        },
+        {
+          "text": "Porfolio V2.0",
+          "Media":{
+              "type": "NA",
+              "link": ""
+          },
+          "description": {
+              "short": "The Portfolio is a website used for displaying work and getting in contact ...",
+              "full": "The Portfolio is a website used for displaying work and getting in contact with potential clients. It hosts all of my newest and coolest projects as well as shows off my abilities."
+          },
+          "link":[
+
+              {
+                  "text": "See Code",
+                  "link": "https://github.com/YT-Main/Portfolio"
+              }
+          ],
+          "TechnologiesUsed":[
+              "Vue.js",
+              "Tailwind.CSS",
+              "JavaScript",
+              "Axios"
+          ]
+        },
+        {
+            "text": "PassGen: Password Maker",
+            "Media":{
+                "type": "img",
+                "link": "PassGen.png"
+            },
+            "description": {
+                "short":"Generates fully randomized passwords with several possible configurations ...",
+                "full": "Generates fully randomized passwords with several possible configurations (Uppercase Letters, Lowercase Letters, Numbers, Symbols, Length), to increase account security "
+            },
+            "link":[
+                {
+                    "text": "Check It Out",
+                    "link": "https://yt-main.github.io/PassGen/"
+                },
+                {
+                    "text": "See Code",
+                    "link": "https://github.com/YT-Main/PassGen"
+                }
+            ],
+            "TechnologiesUsed":[
+                "HTML",
+                "Tailwind.CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "text": "Portfolio V1.0",
+            "Media":{
+                "type": "img",
+                "link": "site-demo.gif"
+            },
+            "description": {
+                "short": "My older proftolio website for displaying work and getting  ...",
+                "full": "My older proftolio website for displaying work and getting in contact with potential clients. It was used to host all of my projects."
+            },
+            "link":[
+                {
+                    "text": "Check It Out",
+                    "link": "https://yt-main.web.app/"
+                },
+                {
+                    "text": "See Code",
+                    "link": "https://github.com/YT-Main/Portfolio"
+                }
+            ],
+            "TechnologiesUsed":[
+                "Vue.js",
+                "Tailwind.CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+}
