@@ -1,33 +1,33 @@
-import Vue from 'vue'
-import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
-import ProjectView from '@/views/ProjectView.vue'
+import Vue from "vue";
+import VueRouter from "vue-router";
+import Home from "../views/Home.vue";
+import ProjectView from "@/views/ProjectView.vue";
 
-Vue.use(VueRouter)
+Vue.use(VueRouter);
 
 const routes = [
   {
-    path: '/:lightRoute',
-    name: 'Home',
+    path: "/:lightRoute",
+    name: "Home",
     component: Home,
-    props: true
+    props: true,
   },
   {
-    path: '/',
-    name: 'Home',
+    path: "/",
+    name: "Home",
     component: Home,
-    alias: '/false'
+    alias: "/false",
   },
   {
     path: "/projects/:id/:lightMode",
     name: ProjectView,
     component: ProjectView,
     props: true,
-  }
-]
+  },
+];
 
 const router = new VueRouter({
   routes,
-  mode: 'history'
-})
-export default router
+  mode: "history",
+});
+export default router;
