@@ -6,14 +6,15 @@
           <h1 class="text-6xl xl:text-7xl">Hey I'm Yash!</h1>
           <Socials />
           <p class="text-xl text-justify">
-            I'm <span class="font-semibold">Yash Trivedi</span>, I am a
-            <span class="font-semibold">developer</span> and student in
-            Oakville, Ontario. I started coding 5 years ago with
-            <span class="font-semibold">Python</span> and then found my love for
-            <span class="font-semibold">web development</span>. Having won and
-            organized hackathons in the past I pride myself on my ability to
-            learn quickly and adapt to the needs of whatever project I am
-            working on. Let's get in touch and talk about your company's needs.
+            I'm <span class="font-semibold">Yash Trivedi</span> a Toronto-based software
+            engineer with 8 years of coding experience. I specialize in 
+            <span class="font-semibold">Python, Fullstack Development</span> utilizing
+            <span class="font-semibold">JavaScript</span>. proficiently architecting
+            <span class="font-semibold">Node JS backends</span>, and crafting polished 
+            <span class="font-semibold">Flutter</span> mobile applications. As a skilled
+            problem solver and rapid learner, I seamlessly adapt to meet the unique 
+            demands of each organization, offering effective solutions and contributing
+            to continuous progress!
           </p>
         </div>
         <div class="relative px-32 mt-0">
@@ -42,14 +43,15 @@
         </div>
         <div id="left" class="mx-auto pt-12">
           <p class="text-md text-justify">
-            I'm <span class="font-semibold">Yash Trivedi</span>, I am a
-            <span class="font-semibold">developer</span> and student in
-            Oakville, Ontario. I started coding 5 years ago with
-            <span class="font-semibold">Python</span> and then found my love for
-            <span class="font-semibold">web development</span>. Having won and
-            organized hackathons in the past I pride myself on my ability to
-            learn quickly and adapt to the needs of whatever project I am
-            working on. Let's get in touch and talk about your company's needs.
+            I'm <span class="font-semibold">Yash Trivedi</span>a Toronto-based software
+            engineer with 8 years of coding experience. I specialize in 
+            <span class="font-semibold">Python, Fullstack Development</span> utilizing
+            <span class="font-semibold">JavaScript</span>. proficiently architecting
+            <span class="font-semibold">Node JS backends</span>, and crafting polished 
+            <span class="font-semibold">Flutter</span> mobile applications. As a skilled
+            problem solver and rapid learner, I seamlessly adapt to meet the unique 
+            demands of each organization, offering effective solutions and contributing
+            to continuous progress!
           </p>
         </div>
       </div>

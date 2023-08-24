@@ -31,7 +31,7 @@
                     class="py-2"
                   >
                     <div
-                      class="my-auto py-1 px-2 text-md rounded-full bg-gray-800 mx-2 inline-block text-white"
+                      class="my-auto py-1 px-3 text-md rounded-full bg-gray-800 mx-2 inline-block text-white"
                       :class="{
                         'bg-green-500': tech === 'Vue.js',
                         'bg-blue-800': tech === 'Tailwind.CSS',

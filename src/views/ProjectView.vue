@@ -33,6 +33,7 @@
           class="rounded-lg mx-auto mt-8 w-4/5"
           style=""
         />
+        <iframe v-if="info.Media.type == 'vid'" width="560" height="315" :src="info.Media.link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
     </div>
     <div class="w-screen xl:w-1/2 flex" :class="{ dark: !light }">

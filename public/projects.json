@@ -33,6 +33,30 @@
             ]
         },
         {
+            "text": "Sofia: SMS Based AI Personal Assistant",
+            "Media":{
+                "type": "vid",
+                "link": "https://www.youtube.com/embed/81flVCTf0w8?si=4ahoD4IanbZKZT-h"
+            },
+            "description": {
+                "short": "An AI Personal Assistant with natural language processing and completes commands...",
+                "full": "An AI Personal Assistant with natural language processing and completes commands without the use of the internet over SMS. Winner of Hack the North 2020++ Facebook API Prize, Canada’s biggest hackathon."
+            },
+            "link":[
+
+                {
+                    "text": "Learn More",
+                    "link": "https://devpost.com/software/sofia-stay-connected-without-a-connection"
+                }
+            ],
+            "TechnologiesUsed":[
+                "Python",
+                "Flask",
+                "AI",
+                "JavaScript"
+            ]
+        },
+        {
             "text": "Prepri",
             "Media": {
                 "text": "Version 1 (2019)",
@@ -83,30 +107,6 @@
                 "Tailwind.CSS",
                 "MongoDB"
             ]
-        },
-        {
-          "text": "Porfolio V2.0",
-          "Media":{
-              "type": "NA",
-              "link": ""
-          },
-          "description": {
-              "short": "The Portfolio is a website used for displaying work and getting in contact ...",
-              "full": "The Portfolio is a website used for displaying work and getting in contact with potential clients. It hosts all of my newest and coolest projects as well as shows off my abilities."
-          },
-          "link":[
-
-              {
-                  "text": "See Code",
-                  "link": "https://github.com/YT-Main/PortfolioV2.0"
-              }
-          ],
-          "TechnologiesUsed":[
-              "Vue.js",
-              "Tailwind.CSS",
-              "JavaScript",
-              "Axios"
-          ]
         },
         {
             "text": "PassGen: Password Maker",

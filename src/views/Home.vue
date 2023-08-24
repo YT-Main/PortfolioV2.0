@@ -23,7 +23,7 @@
                 <ul class="lg:flex items-center justify-between text-base pt-4 lg:pt-0">
                   <li><a class="lg:p-4 py-3 px-0 block hover:text-gray-400" @click="scroll('projects')">Projects</a></li>
                   <li><a class="lg:p-4 py-3 px-0 block hover:text-gray-400" @click="scroll('contact')">Contact Me</a></li>
-                  <li><a class="lg:p-4 py-3 px-0 block hover:text-gray-400" href="/Resume.pdf" target="_blank">Resume</a></li>
+
                   <li>
                     <img class="lg:p-4 py-3 px-0 block" :src="'/images/icons/light_' + light + '.svg'" @click="light = !light"/>  
                   </li>
@@ -37,7 +37,7 @@
                   <ul class="items-center justify-between text-base text-white font-semibold pt-4 px-6">
                     <li><a class="lg:p-4 py-3 px-0 block hover:text-gray-400" @click="scroll('projects')">Projects</a></li>
                     <li><a class="lg:p-4 py-3 px-0 block hover:text-gray-400" @click="scroll('contact')">Contact Me</a></li>
-                    <li><a class="lg:p-4 py-3 px-0 block hover:text-gray-400" href="/Resume.pdf" target="_blank">Resume</a></li>
+
                     <li>
                       <img class="lg:p-4 py-3 px-0 block mx-auto" :src="'/images/icons/light_' + light + '.svg'" @click="light = !light"/>  
                     </li>
@@ -98,7 +98,7 @@ export default {
   },
   props: ['lightRoute'],
   mounted(){
-    this.light = this.lightRoute == 'true'
+    this.light = 'true'
   },
   methods:{
     animate: function(elem, style, unit, from, to, time, prop) {
