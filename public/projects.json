@@ -1,6 +1,62 @@
 {
     "projects":[
         {
+            "text": "Commune - Event Based Social Media Startup",
+            "Media":{
+                "type": "NA",
+                "link": ""
+            },
+            "description": {
+                "short": "A social media startup that connects you with others through events.",
+                "full": "A social media startup that connects you with others through events. Complete full stack multiplatfrom application! Built using Flutter, React, NodeJS, and more!"
+            },
+            "link":[
+                {
+                    "text": "Check It Out",
+                    "link": "https://getcommune.com/"
+                },
+                {
+                    "text": "Try on iOS",
+                    "link": "https://apps.apple.com/ca/app/commune-events-parties-more/id6444349498"
+                }
+            ],
+            "TechnologiesUsed":[
+                "Flutter",
+                "NodeJS",
+                "Express",
+                "MongoDB",
+                "Digital Ocean",
+                "GCP",
+                "React",
+                "Tailwind.CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "text": "Prepri",
+            "Media": {
+                "text": "Version 1 (2019)",
+                "type": "NA",
+                "link": ""
+            },
+            "description": {
+                "short": "Prepri is a revolutionary learning platform that merges convenience ...",
+                "full": "Prepri is a revolutionary learning platform that merges convenience for administrators with effective delivery for students. Prepri is perfect for any corporate or NGO setting allowing for quick and effective information transfer, certification training, and/or onboarding. Prepri was created for the TechUnderTwenty Cup where they were connected with current clients."
+            },
+            "link": [
+                {
+                    "text": "Vist Our Website",
+                    "link": "https://prepri.app"
+                }
+            ],
+            "TechnologiesUsed":[
+                "Vue.js",
+                "Tailwind.CSS",
+                "Axios",
+                "JavaScript"
+            ]
+        },
+        {
             "text": "Lectio",
             "Media": {
                 "type": "img",
@@ -26,30 +82,6 @@
                 "JavaScript",
                 "Tailwind.CSS",
                 "MongoDB"
-            ]
-        },
-        {
-            "text": "Prepri",
-            "Media": {
-                "text": "Version 1 (2019)",
-                "type": "NA",
-                "link": ""
-            },
-            "description": {
-                "short": "Prepri is a revolutionary learning platform that merges convenience ...",
-                "full": "Prepri is a revolutionary learning platform that merges convenience for administrators with effective delivery for students. Prepri is perfect for any corporate or NGO setting allowing for quick and effective information transfer, certification training, and/or onboarding. Prepri was created for the TechUnderTwenty Cup where they were connected with current clients."
-            },
-            "link": [
-                {
-                    "text": "Vist Our Website",
-                    "link": "https://prepri.app"
-                }
-            ],
-            "TechnologiesUsed":[
-                "Vue.js",
-                "Tailwind.CSS",
-                "Axios",
-                "JavaScript"
             ]
         },
         {
@@ -98,32 +130,6 @@
             ],
             "TechnologiesUsed":[
                 "HTML",
-                "Tailwind.CSS",
-                "JavaScript"
-            ]
-        },
-        {
-            "text": "Portfolio V1.0",
-            "Media":{
-                "type": "img",
-                "link": "site-demo.gif"
-            },
-            "description": {
-                "short": "My older proftolio website for displaying work and getting  ...",
-                "full": "My older proftolio website for displaying work and getting in contact with potential clients. It was used to host all of my projects."
-            },
-            "link":[
-                {
-                    "text": "Check It Out",
-                    "link": "https://yt-main.web.app/"
-                },
-                {
-                    "text": "See Code",
-                    "link": "https://github.com/YT-Main/Portfolio"
-                }
-            ],
-            "TechnologiesUsed":[
-                "Vue.js",
                 "Tailwind.CSS",
                 "JavaScript"
             ]
