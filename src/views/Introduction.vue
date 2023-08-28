@@ -19,7 +19,7 @@
         </div>
         <div class="relative px-32 mt-0">
           <img
-            class="mr-0 rounded-lg"
+            class="mr-0 rounded-lg object-cover"
             src="/images/profile.jpg"
             style="width: 17.5rem; height: 17.5rem"
           />
@@ -36,7 +36,7 @@
         </div>
         <div class="flex w-screen lg:relative mt-8">
           <img
-            class="mx-auto rounded-lg"
+            class="mx-auto rounded-lg object-cover"
             src="/images/profile.jpg"
             style="width: 15rem; height: 15rem"
           />
