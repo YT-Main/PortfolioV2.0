@@ -5,7 +5,7 @@
         <div id="left" class="mx-auto px-32">
           <h1 class="text-6xl xl:text-7xl">Hey I'm Yash!</h1>
           <Socials />
-          <p class="text-xl text-justify">
+          <p class="text-xl">
             I'm <span class="font-semibold">Yash Trivedi</span> a Toronto-based software
             engineer with 8 years of coding experience. I specialize in 
             <span class="font-semibold">Python, Fullstack Development</span> utilizing
@@ -20,7 +20,7 @@
         <div class="relative px-32 mt-0">
           <img
             class="mr-0 rounded-lg"
-            src="/images/profile.png"
+            src="/images/profile.jpg"
             style="width: 17.5rem; height: 17.5rem"
           />
         </div>
@@ -37,12 +37,12 @@
         <div class="flex w-screen lg:relative mt-8">
           <img
             class="mx-auto rounded-lg"
-            src="/images/profile.png"
+            src="/images/profile.jpg"
             style="width: 15rem; height: 15rem"
           />
         </div>
         <div id="left" class="mx-auto pt-12">
-          <p class="text-md text-justify">
+          <p class="text-md">
             I'm <span class="font-semibold">Yash Trivedi</span>a Toronto-based software
             engineer with 8 years of coding experience. I specialize in 
             <span class="font-semibold">Python, Fullstack Development</span> utilizing
